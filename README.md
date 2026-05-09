@@ -12,7 +12,7 @@
 
 **A comprehensive Governance, Risk & Compliance (GRC) capstone project for SecureEdge Ltd — covering penetration testing, NMAP network scanning, ISO 27001 internal audit, risk register construction, 5×5 risk matrix scoring, and full security policy development including a Penetration Testing Policy and Vulnerability Management Policy.**
 
-[📋 Summary](#-executive-summary) • [🔍 NMAP Scan](#-nmap-scan-results) • [⚠️ Risk Register](#️-risk-register) • [✅ ISO Audit](#-iso-27001-internal-audit-checklist) • [📜 Policies](#-security-policies) [See-Full-Report](https://github.com/kosijustice/GRC-Policy-Risk-Assessment-and-Treatment-Plan./blob/main/Justice%20Alucho_%20GRC%20%20_Capstone%201.pdf)
+[📋 Summary](#-executive-summary) • [🔍 NMAP Scan](#-nmap-scan-results) • [⚠️ Risk Register](#️-risk-register) • [✅ ISO Audit](#-iso-27001-internal-audit-checklist) • [📜 Policies](#-security-policies) . [See-Full-Report](https://github.com/kosijustice/GRC-Policy-Risk-Assessment-and-Treatment-Plan./blob/main/Justice%20Alucho_%20GRC%20%20_Capstone%201.pdf) . [link-To-Risk-Assesssment-and-Treatment-Plan](https://github.com/kosijustice/GRC-Policy-Risk-Assessment-and-Treatment-Plan./commit/4323904f31eac4f5475efd2a4c2e01fd2e918699)
 
 </div>
 
@@ -840,7 +840,7 @@ grc-risk-assessment-secureedge/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justice--alucho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justice-alucho-30aba6145)
 [![GitHub](https://img.shields.io/badge/GitHub-kosijustice-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosijustice)
-[![Email](https://img.shields.io/badge/Email-kosijustice7alucho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosijustice7alucho@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kosijustice7alucho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosijustice7alucho@gmail.com) [link-to-the-full-Report](https://github.com/kosijustice/GRC-Policy-Risk-Assessment-and-Treatment-Plan./commit/4323904f31eac4f5475efd2a4c2e01fd2e918699)  
 
 Central, SC29630.
 
