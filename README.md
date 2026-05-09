@@ -12,7 +12,7 @@
 
 **A comprehensive Governance, Risk & Compliance (GRC) capstone project for SecureEdge Ltd — covering penetration testing, NMAP network scanning, ISO 27001 internal audit, risk register construction, 5×5 risk matrix scoring, and full security policy development including a Penetration Testing Policy and Vulnerability Management Policy.**
 
-[📋 Summary](#-executive-summary) • [🔍 NMAP Scan](#-nmap-scan-results) • [⚠️ Risk Register](#️-risk-register) • [✅ ISO Audit](#-iso-27001-internal-audit-checklist) • [📜 Policies](#-security-policies) [See-Full-Report](https://docs.google.com/spreadsheets/d/14Re4L4cWD3PE4oLp2XbZmzQnoHpiXa6JRj7DjyFKw0E/edit?usp=sharing)(https://github.com/kosijustice/GRC-Policy-Risk-Assessment-and-Treatment-Plan./blob/main/Justice%20Alucho_%20GRC%20%20_Capstone%201.pdf)
+[📋 Summary](#-executive-summary) • [🔍 NMAP Scan](#-nmap-scan-results) • [⚠️ Risk Register](#️-risk-register) • [✅ ISO Audit](#-iso-27001-internal-audit-checklist) • [📜 Policies](#-security-policies) [See-Full-Report](https://github.com/kosijustice/GRC-Policy-Risk-Assessment-and-Treatment-Plan./blob/main/Justice%20Alucho_%20GRC%20%20_Capstone%201.pdf)
 
 </div>
 
