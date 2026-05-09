@@ -842,7 +842,7 @@ grc-risk-assessment-secureedge/
 [![GitHub](https://img.shields.io/badge/GitHub-kosijustice-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosijustice)
 [![Email](https://img.shields.io/badge/Email-kosijustice7alucho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosijustice7alucho@gmail.com)
 
-📍 Clemson, SC 29631
+Central, SC29630.
 
 </div>
 
